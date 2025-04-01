@@ -1,0 +1,2 @@
+# Stroke-Risk-Prediction-Using-Machine-Learning-A-Healthcare-Dataset-Analysis
+This project aims to predict stroke occurrences based on patient health attributes using machine learning models. The dataset is sourced from Kaggle’s Healthcare Stroke Dataset, which includes demographic, medical, and lifestyle-related features. The primary objective is to build an accurate predictive model for early stroke detection,.
